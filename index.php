@@ -735,9 +735,7 @@
                                                   <div class="eltdf-rml-price-holder">
                                                     <h5 class="eltdf-rml-price">15K</h5>
                                                   </div>
-                                                  <div class="eltdf-rml-price-holder">
-                                                    <button><a href="#">buy</a></button>
-                                                  </div>
+                                                  
                                                 </div>
                                               </div>
                                             </li>
